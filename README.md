@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Mil meu com mil teu?
 -->
 [![Gmail Badge](https://img.shields.io/badge/-thierrymatheusreal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thierrymatheusreal@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/thierry-matheus-0790311a1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thierry-matheus-0790311a1/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/Thierry-Matheus-0790311a1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thierry-matheus-0790311a1/ "Connect on LinkedIn")
  ![Profile Views](https://komarev.com/ghpvc/?username=ThierryMatheus&color=7802aa)
